@@ -8,8 +8,8 @@
 	<name>Spring4MVCAngularJSExample Maven Webapp</name>
 
 	<properties>
-		<springframework.version>4.2.0.RELEASE</springframework.version>
-		<jackson.version>2.5.3</jackson.version>
+		<springframework.version>4.0.0.RELEASE</springframework.version>
+		<jackson.version>1.9.13</jackson.version>
 	</properties>
 
 	<dependencies>
@@ -27,23 +27,23 @@
 		</dependency>
 
 
+		<!--<dependency>-->
+			<!--<groupId>com.fasterxml.jackson.core</groupId>-->
+			<!--<artifactId>jackson-databind</artifactId>-->
+			<!--<version>${jackson.version}</version>-->
+		<!--</dependency>-->
 		<dependency>
-			<groupId>com.fasterxml.jackson.core</groupId>
-			<artifactId>jackson-databind</artifactId>
+			<groupId>org.codehaus.jackson</groupId>
+			<artifactId>jackson-core-asl</artifactId>
 			<version>${jackson.version}</version>
 		</dependency>
-		<!--<dependency>-->
-			<!--<groupId>org.codehaus.jackson</groupId>-->
-			<!--<artifactId>jackson-core-asl</artifactId>-->
-			<!--<version>${jackson.version}</version>-->
-		<!--</dependency>-->
 
-		<!--<dependency>-->
-			<!--<groupId>org.codehaus.jackson</groupId>-->
-			<!--<artifactId>jackson-mapper-asl</artifactId>-->
-			<!--<version>${jackson.version}</version>-->
+		<dependency>
+			<groupId>org.codehaus.jackson</groupId>
+			<artifactId>jackson-mapper-asl</artifactId>
+			<version>${jackson.version}</version>
 
-		<!--</dependency>-->
+		</dependency>
 
 		<!-- Java Servlet API -->
 		<dependency>
