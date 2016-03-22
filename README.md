@@ -1,6 +1,7 @@
 # springmvc4-angularjs-tomcat6-java6
 
 # test
+mvn clean install
 Open browser and browse at http://localhost:8080/Spring4MVCAngularJSExample/
 
 # Reference:
