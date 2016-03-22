@@ -10,6 +10,7 @@
 	<properties>
 		<springframework.version>4.0.0.RELEASE</springframework.version>
 		<jackson.version>1.9.13</jackson.version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
 	<dependencies>
@@ -85,6 +86,7 @@
 						<source>1.6</source>
 						<target>1.6</target>
 						<compilerArgument></compilerArgument>
+						<encoding>${project.build.sourceEncoding}</encoding>
 					</configuration>
 				</plugin>
 			</plugins>
