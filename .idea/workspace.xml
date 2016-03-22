@@ -7,64 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3632000-8b72-425c-8d4e-9dc7eb75f037" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/classes/com/websystique/springmvc/configuration/CORSFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/classes/com/websystique/springmvc/configuration/HelloWorldConfiguration.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/classes/com/websystique/springmvc/configuration/HelloWorldInitializer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/classes/com/websystique/springmvc/controller/HelloWorldRestController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/classes/com/websystique/springmvc/controller/IndexController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/classes/com/websystique/springmvc/model/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/classes/com/websystique/springmvc/service/UserService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/classes/com/websystique/springmvc/service/UserServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/lib/jackson-annotations-2.5.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/lib/jackson-core-2.5.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/lib/jackson-databind-2.5.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/lib/spring-aop-4.2.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/lib/spring-beans-4.2.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/lib/spring-context-4.2.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/lib/spring-core-4.2.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/lib/spring-expression-4.2.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/lib/spring-tx-4.2.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/lib/spring-web-4.2.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/lib/spring-webmvc-4.2.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/WEB-INF/views/UserManagement.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/static/css/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/static/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/static/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/static/js/controller/user_controller.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Spring4MVCAngularJSExample/static/js/service/user_service.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/websystique/springmvc/configuration/CORSFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/websystique/springmvc/configuration/HelloWorldConfiguration.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/websystique/springmvc/configuration/HelloWorldInitializer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/websystique/springmvc/controller/HelloWorldRestController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/websystique/springmvc/controller/IndexController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/websystique/springmvc/model/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/websystique/springmvc/service/UserService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/websystique/springmvc/service/UserServiceImpl.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Spring4MVCAngularJSExample_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Spring4MVCAngularJSExample_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Spring4MVCAngularJSExample.iml" afterPath="$PROJECT_DIR$/Spring4MVCAngularJSExample.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/websystique/springmvc/configuration/HelloWorldConfiguration.java" afterPath="$PROJECT_DIR$/src/main/java/com/websystique/springmvc/configuration/HelloWorldConfiguration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/websystique/springmvc/configuration/HelloWorldInitializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/websystique/springmvc/configuration/HelloWorldInitializer.java" />
     </list>
     <ignored path="Spring4MVCAngularJSExample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -845,12 +788,12 @@
       <option name="number" value="Default" />
       <updated>1458236725034</updated>
       <workItem from="1458236726821" duration="7464000" />
-      <workItem from="1458668520583" duration="7519000" />
+      <workItem from="1458668520583" duration="7580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14983000" />
+    <option name="totallyTimeSpent" value="15044000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
