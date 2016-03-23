@@ -4,7 +4,7 @@ import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatche
 
 import javax.servlet.Filter;
 
-public class HelloWorldInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
+public class ProjectInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
  
     @Override
     protected Class<?>[] getRootConfigClasses() {
@@ -13,7 +13,7 @@ public class HelloWorldInitializer extends AbstractAnnotationConfigDispatcherSer
   
     @Override
     protected Class<?>[] getServletConfigClasses() {
-        return new Class[] { HelloWorldConfiguration.class };
+        return new Class[] { ProjectConfiguration.class };
     }
   
     @Override
